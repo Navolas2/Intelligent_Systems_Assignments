@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cs480-task-1-support"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/cs480-task-1-support/cs480viewer-task1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/windows64/gluegen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/windows64/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/windows64/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/windows64/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicholas/Documents/shelby.ewu.edu/viewer/windows64/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
